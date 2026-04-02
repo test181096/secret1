@@ -1,0 +1,5 @@
+api_key: demo_1234567890abcdef1234567890abcdef
+aws_access_key_id: AKIA1234567890FAKEKEY
+aws_secret_access_key: abcd1234fakekey5678examplekey9012abcd
+github_token: ghp_abcdefghijklmnopqrstuvwxyz123456
+db_password: FakePassword123!
